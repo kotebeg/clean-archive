@@ -1,2 +1,4 @@
 # clean-archive
-manage archive files files with python
+
+Create script _clean_app.py_ that  
+- [ ] Take a zip archive name as an argument:
